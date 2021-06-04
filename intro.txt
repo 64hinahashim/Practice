@@ -1,0 +1,29 @@
+
+
+
+
+Introduction:
+Fake news is known as misinformation or deceptive news. Fake news can
+take several forms like edited text stories, photoshopped pictures, and
+unordered video clips.
+The aims of spreading fake news including propaganda about a politician to win the election,increased sale of a product by posting fake positive reviews to benefit a businessman, and defame a showbiz star etc. There are causing devastating impacts on our society.
+The detection of fake news has become the most focusing and challenging trend nowadays.It requires more energy, cost, and time to manually identify and remove fake news or fake reviews from social media. Malicious and fabricated content mislead the people and being widely used on social media, politics, education, and online shopping etc.  
+Since internet came into existence, people have started to use the web for accessing information progressively rather than the traditional media and there are obvious reasons for it. Internet provides a lot of comfort. Anyone can access the news in a quick and convenient way.This caused birth of a new concept of fake news clickbait that has been used by the publishers in order to boost their webpage reach. It has been said that fake news spread even faster than the real news.
+Click-baits are a set of words designed in a tactical manner to tempt the user to click a link, which he thought is of his interest, but upon clicking it, takes him to an article which is entirely different than he had expected when he saw the thumbnail. Click-baits are a source of irritation for many users, resultantly most of the users do not waste their precious time on these kind of spam websites.
+
+
+
+Image....................................................
+ 
+
+Information can be easily shared without any kind of inspection or third-party filtering.  A user with almost no reputation can reach as many viewers or readers as any media house or highly reputable newspaper.
+The detection of fake news on social media has its own attributes and difficulties. The traditional third-party filtering or fact-checking is practically ineffective and unapplicable on social fake news detection. Many practitioners have tried to solve the problem under consideration using the power of Artificial Intelligence in the form of NLP (Natural Language Processing). The job of identifying fake news is challenging even for humans. Moreover, the linguistic features retrieved from the news are not enough for detecting the pattern in the news.
+
+⦁	Why Fake News Detection is Important? 
+
+People are continually connected to each other on their smart devices through social media but the question remains on the credibility of news on social media. Is it reliable enough that people can trust it blindly? As social networking websites are publicly accessible, and anyone which includes news outlets too can share anything without any fact-checking.
+
+
+⦁	Aims and Objectives of this Paper
+In this paper, we introduce the different aspects of fake news identification on the web. Characterization and detection are the two important terms that play an important role in data analysis and anomaly detection. We have discussed different aspects related to a news which includes the creator of news, the spreader, target users, the content of news and its social context. By reviewing existing fake news detection approaches we explored different features and datasets for training models. Lastly, we presented some open issues to tackle and promising future pathways in detection of fake news.
+
